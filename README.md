@@ -1,2 +1,2 @@
 # Random_Quote_Original
-A Random Quote genrator
+A custom made basic Quote generator
